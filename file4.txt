@@ -1,4 +1,10 @@
+Life Quotes
+
 Your clarity determines how successfully you walk this life. Sadhguru
 
+<<<<<<< HEAD
 Fear is going to be a player in your life, but you get to decide how much. Jim Carrey
+=======
+This is a wonderful day. I’ve never seen this one before. Maya Angelou
+>>>>>>> first
 

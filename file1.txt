@@ -1,4 +1,10 @@
+Life Quotes
+
 Nature heals everything !!
 
+<<<<<<< HEAD
 Fear is going to be a player in your life, but you get to decide how much. Jim Carrey
+=======
+Our favorite attitude should be gratitude. Zig Ziglar
+>>>>>>> first
 
