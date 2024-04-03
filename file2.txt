@@ -2,3 +2,9 @@ Life Quotes
 
 Believe you can and you’re halfway there. Theodore Roosevelt
 
+<<<<<<< HEAD
+Fear is going to be a player in your life, but you get to decide how much. Jim Carrey
+=======
+The ego wants comfort and certainty. The soul wants to live fully. Maxime Lagacé
+>>>>>>> first
+
